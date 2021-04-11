@@ -120,8 +120,7 @@ function initPage() {
     }
 
 
-//  Save user's search requests and display them underneath search form
-//  When page loads, automatically generate current conditions and 5-day forecast for the last city the user searched for
+
 
 }
 initPage();
